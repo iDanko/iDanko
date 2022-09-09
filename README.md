@@ -20,6 +20,10 @@
   <h3>Médio-Avançado</h3>
   <img align="center" alt="dan-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="dan-bi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png">
-  <img align="center" alt="dan-bi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
+  <img align="center" alt="dan-bi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"><br>
 
+<div align="center">
+  <h3>Dashboard Acidentes Rodoviarios 2020 - Feito em Python</h3><br>
+  <img alt="dan-gif" src="https://github.com/iDanko/pasta/blob/c455bf676b2543c11f40a968e398bfe37c61be91/Dash-Google-Chrome-2022-09-09-19-12-42_Trim.gif">
 
+</div>
