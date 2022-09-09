@@ -1,7 +1,7 @@
 ### Olá! Me chamo Daniel Rodrigues 👋
 
 - Estou iniciando na área de Data Analytics e Business Intelligence 📈
-- Atualmente estagio no Ministério da Ciência, Tecnologia e Inovações, onde auxilio na análise e desenvolvimento de rotinas automatizadas no setor, outra função atribuída à mim é a elaboração de dashboards em Business Intelligence.
+- Atualmente estagio no Ministério da Ciência, Tecnologia e Inovações, onde auxilio na análise e desenvolvimento de rotinas automatizadas no setor. Outra função atribuída à mim é a elaboração de dashboards em Business Intelligence.
 
 <div align="center">
   <a href="https://beacons.ai/danielrodrigues">
